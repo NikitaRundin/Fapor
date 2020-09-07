@@ -220,14 +220,14 @@ section.contacts p{
     font-size: 12px;
     margin-bottom: 20px;
 }
-section.contacts input{
+section.contacts input#mail{
     border: solid 1px #61656b;
     line-height: 9px;
     padding: 7px 15px 8px;
     color: #6e7279;
     background-color:#2b2f35 ;
     font-size: 12px;
-    width:240px ;
+    width: 100% ;
     margin-bottom: 8px;
     height: 29px;
 }
